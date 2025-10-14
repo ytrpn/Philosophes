@@ -1,4 +1,3 @@
-#Philosophes
+# digital-project
 
-[Table des matières](documentations\home.md)
-
+-----
