@@ -23,4 +23,4 @@ Peut-on déterminer l'impact d'un auteur en fonction de la dispersion de ses oeu
 * correspondances
 * Réactions aux autres publication philosophiques
 * Ouvrages
-* Enseignement et appartenance à des mouvements intellectuels ou philosophiques
+* Enseignement et appartenance à des mouvements intellectuels ou philosophiques. 
