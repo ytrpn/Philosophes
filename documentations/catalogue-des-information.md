@@ -4,16 +4,16 @@
 
 - Date de naissance
 - Date de mort
-- Origine
-- Formation
-- Oeuvres
-- Courant
+- Lieu de naissance
+- lieu de mort
 - Langue
+- Genre
 
-### Lieux
+
+### Lieux géo
 
 - Nom
-- Coordonnées
+- Pays
 
 ### Oeuvres
 
@@ -25,14 +25,13 @@
 
 ### Relations entre objets
 
-- Personne nait dans lieu
-- Personne vit dans lieu
-- Personne meurt dans lieu
 - Personne écrit oeuvre
 - Personne référence oeuvre
 - Personne référence personne
 - Lieu publie oeuvre
-- Personne contemporain de personne
+- Lieu de vie
 - Personne élève de personne
 - personne opposé à personne
 - Personne partage le courant de personne
+- Personne a une occupation
+- Est en relation avec une personne
